@@ -1,0 +1,16 @@
+G:\Master\FButtonLib\bin\Debug\FButtonLib.dll
+G:\Master\FButtonLib\bin\Debug\FButtonLib.pdb
+G:\Master\FButtonLib\obj\Debug\FButtonLib.csproj.CoreCompileInputs.cache
+G:\Master\FButtonLib\obj\Debug\FButtonLib.dll
+G:\Master\FButtonLib\obj\Debug\FButtonLib.pdb
+E:\Master\FButtonLib\bin\Debug\FButtonLib.dll
+E:\Master\FButtonLib\bin\Debug\FButtonLib.pdb
+E:\Master\FButtonLib\obj\Debug\FButtonLib.csprojResolveAssemblyReference.cache
+E:\Master\FButtonLib\obj\Debug\FButtonLib.csproj.CoreCompileInputs.cache
+E:\Master\FButtonLib\obj\Debug\FButtonLib.dll
+E:\Master\FButtonLib\obj\Debug\FButtonLib.pdb
+F:\Projects\Master rad stefan\source code\Master\FButtonLib\bin\Debug\FButtonLib.dll
+F:\Projects\Master rad stefan\source code\Master\FButtonLib\bin\Debug\FButtonLib.pdb
+F:\Projects\Master rad stefan\source code\Master\FButtonLib\obj\Debug\FButtonLib.csproj.CoreCompileInputs.cache
+F:\Projects\Master rad stefan\source code\Master\FButtonLib\obj\Debug\FButtonLib.dll
+F:\Projects\Master rad stefan\source code\Master\FButtonLib\obj\Debug\FButtonLib.pdb

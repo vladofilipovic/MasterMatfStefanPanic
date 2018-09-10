@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="40dp"
+    android:paddingRight="40dp"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp"
+    android:gravity="center">
+    <info.hoang8f.widget.FButton
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        fbutton:buttonColor="@color/fbutton_color_wisteria"
+        fbutton:shadowEnabled="true"
+        fbutton:cornerRadius="10dp"
+        android:id="@+id/pisanje"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/citanje_i_pisanje" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+        <info.hoang8f.widget.FButton
+            android:textStyle="bold"
+            android:layout_margin="10dp"
+            fbutton:buttonColor="@color/fbutton_color_pumpkin"
+            fbutton:shadowEnabled="true"
+            fbutton:cornerRadius="10dp"
+            android:id="@+id/izborOperacijeSaOdgovorima"
+            android:textColor="@color/white"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:text="+" />
+        <info.hoang8f.widget.FButton
+            android:layout_margin="10dp"
+            fbutton:buttonColor="@color/fbutton_color_pumpkin"
+            fbutton:shadowEnabled="true"
+            fbutton:cornerRadius="10dp"
+            android:textStyle="bold"
+            android:id="@+id/matematikaSaOdgovorima"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/matematika_sa_odgovorima" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+        <info.hoang8f.widget.FButton
+            android:textStyle="bold"
+            android:layout_margin="10dp"
+            fbutton:buttonColor="@color/fbutton_color_green_sea"
+            fbutton:shadowEnabled="true"
+            fbutton:cornerRadius="10dp"
+            android:id="@+id/izborOperacije"
+            android:textColor="@color/white"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:text="+" />
+        <info.hoang8f.widget.FButton
+            android:layout_margin="10dp"
+            fbutton:buttonColor="@color/fbutton_color_green_sea"
+            fbutton:shadowEnabled="true"
+            fbutton:cornerRadius="10dp"
+            android:id="@+id/matematika"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/matematika" />
+    </LinearLayout>
+</LinearLayout>

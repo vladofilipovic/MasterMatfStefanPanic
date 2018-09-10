@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1FE80DD1-75A3-4200-B0C7-F4C053DE0713}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Master AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="Theme.DeviceDefault" PreferredExecutionTarget="Android.8575485a53544f59" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Master\Adapters\RecyclerViewAdapter.cs">
+    <Files>
+      <File FileName="Master\Database\CDatabase.cs" Line="1" Column="1" />
+      <File FileName="Master\Database\CImage.cs" Line="16" Column="12" />
+      <File FileName="Master\Database\CRecord.cs" Line="16" Column="12" />
+      <File FileName="Master\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="Master\Resources\values-sr\Strings.xml" Line="1" Column="1" />
+      <File FileName="Master\Resources\values\colors.axml" Line="5" Column="34" />
+      <File FileName="Master\Global\Preferences.cs" Line="23" Column="1" />
+      <File FileName="Master\App.cs" Line="1" Column="1" />
+      <File FileName="Master\Fragments\SoundSettingsFragment.cs" Line="35" Column="1" />
+      <File FileName="Master\Fragments\PlaySettingsFragment.cs" Line="53" Column="65" />
+      <File FileName="Master\Fragments\MainFragment.cs" Line="114" Column="91" />
+      <File FileName="Master\MainActivity.cs" Line="20" Column="38" />
+      <File FileName="Master\Activities\SettingsActivity.cs" Line="16" Column="1" />
+      <File FileName="Master\Activities\BaseActivity.cs" Line="34" Column="5" />
+      <File FileName="Master\Resources\values\styles.axml" Line="12" Column="1" />
+      <File FileName="Master\Resources\font\alegreya_font_family.xml" Line="7" Column="15" />
+      <File FileName="Master\Adapters\RecyclerViewAdapter.cs" Line="146" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

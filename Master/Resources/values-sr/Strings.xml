@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Учиграоница</string>
+  <string name="izbor_jezika_latinica">LATINICA</string>
+  <string name="izbor_jezika_cirilica">ЋИРИЛИЦА</string>
+  <string name="igraj">Играј</string>
+  <string name="podesavanja">Подешавања</string>
+  <string name="rekordi">Рекорди</string>
+  <string name="settings_activity_title">Подешавања</string>	
+  <string name="igra">Игра</string>
+  <string name="zvuk">Звук</string>
+  <string name="ostalo">Остало</string>
+  <string name="vibracija">Вибрација</string>
+  <string name="jacina_zvuka">Јачина звука</string>
+  <string name="delete_database">Брисање свих резултата</string>
+  <string name="sabiranje_label">Сабирање до:</string>	
+  <string name="oduzimanje_label">Одузимање до:</string>	
+  <string name="deljenje_label">Дељење до:</string>	
+  <string name="mnozenje_label">Множење до:</string>		
+  <string name="broj1">Први број:</string>	
+  <string name="broj2">Други број:</string>	
+    <string name="sabiranje">Сабирање</string>
+	<string name="oduzimanje">Одузимање</string>
+	<string name="deljenje">Дељење</string>
+	<string name="mnozenje">Множење</string>
+	<string name="quit">Излаз</string>
+	<string name="matematika">Математика</string>
+	<string name="jezik">Језик:</string>
+  <string name="citanje_i_pisanje">Читање и писање</string>
+  <string name="matematika_sa_odgovorima">Математика са понуђеним одговорима</string>
+  <string name="matematicke_operacije">Математичке операције:</string>
+  <string name="zadatak">Задатак:</string>
+  <string name="vreme">Време:</string>
+  <string name="tacnih_odgovora">Број тачних одговора: </string>
+  <string name="start">Старт</string>
+  <string name="igraj_ponovo">Играј поново</string>
+  <string name="nema_rezultata">Тренутно нема резултата.</string>
+
+
+	<string-array name="numbers_array">
+        <item>10</item>
+        <item>100</item>
+        <item>1000</item>
+    </string-array>
+</resources>
